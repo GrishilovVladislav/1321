@@ -1,0 +1,14 @@
+D:\3 сем\ИСП\053501_Grishilov_Lab01\053501_Grishilov_Lab01\bin\Debug\netcoreapp3.1\053501_Grishilov_Lab01.exe
+D:\3 сем\ИСП\053501_Grishilov_Lab01\053501_Grishilov_Lab01\bin\Debug\netcoreapp3.1\053501_Grishilov_Lab01.deps.json
+D:\3 сем\ИСП\053501_Grishilov_Lab01\053501_Grishilov_Lab01\bin\Debug\netcoreapp3.1\053501_Grishilov_Lab01.runtimeconfig.json
+D:\3 сем\ИСП\053501_Grishilov_Lab01\053501_Grishilov_Lab01\bin\Debug\netcoreapp3.1\053501_Grishilov_Lab01.runtimeconfig.dev.json
+D:\3 сем\ИСП\053501_Grishilov_Lab01\053501_Grishilov_Lab01\bin\Debug\netcoreapp3.1\053501_Grishilov_Lab01.dll
+D:\3 сем\ИСП\053501_Grishilov_Lab01\053501_Grishilov_Lab01\bin\Debug\netcoreapp3.1\053501_Grishilov_Lab01.pdb
+D:\3 сем\ИСП\053501_Grishilov_Lab01\053501_Grishilov_Lab01\obj\Debug\netcoreapp3.1\053501_Grishilov_Lab01.csproj.AssemblyReference.cache
+D:\3 сем\ИСП\053501_Grishilov_Lab01\053501_Grishilov_Lab01\obj\Debug\netcoreapp3.1\053501_Grishilov_Lab01.GeneratedMSBuildEditorConfig.editorconfig
+D:\3 сем\ИСП\053501_Grishilov_Lab01\053501_Grishilov_Lab01\obj\Debug\netcoreapp3.1\053501_Grishilov_Lab01.AssemblyInfoInputs.cache
+D:\3 сем\ИСП\053501_Grishilov_Lab01\053501_Grishilov_Lab01\obj\Debug\netcoreapp3.1\053501_Grishilov_Lab01.AssemblyInfo.cs
+D:\3 сем\ИСП\053501_Grishilov_Lab01\053501_Grishilov_Lab01\obj\Debug\netcoreapp3.1\053501_Grishilov_Lab01.csproj.CoreCompileInputs.cache
+D:\3 сем\ИСП\053501_Grishilov_Lab01\053501_Grishilov_Lab01\obj\Debug\netcoreapp3.1\053501_Grishilov_Lab01.dll
+D:\3 сем\ИСП\053501_Grishilov_Lab01\053501_Grishilov_Lab01\obj\Debug\netcoreapp3.1\053501_Grishilov_Lab01.pdb
+D:\3 сем\ИСП\053501_Grishilov_Lab01\053501_Grishilov_Lab01\obj\Debug\netcoreapp3.1\053501_Grishilov_Lab01.genruntimeconfig.cache
